@@ -5,12 +5,8 @@
       color: white;
      
  }
- h1 {
- 	padding-left: 100px;
- 	padding-top: 30px;
- }
  .container {
- 	width: 30%;
+ 	width: 40%;
  	margin-top: 8%;
  	box-shadow: 0 3px 28px rgba(0,0,0,0.5);
  	padding: 40px;
@@ -28,6 +24,6 @@
  }
  hr {
  	 border-color: #F05F40;
-	  width: 170px;
+	  width: 100px;
 	  border-width: 2px;
  }
